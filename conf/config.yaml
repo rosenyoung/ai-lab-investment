@@ -16,7 +16,7 @@ data:
 tasks:
   simulations: false
   main_regressions: false
-  phase1_base_model: false
+  phase1_base_model: true
   phase2_duopoly: false
   phase4_calibration: false
   phase5_valuation: false
